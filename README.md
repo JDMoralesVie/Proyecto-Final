@@ -1,2 +1,2 @@
-# Proyecto-Final_Sistema-de-venta-de-entradas
-https://youtu.be/bQK0mg01vpE
+# Proyecto Final
+Sistema de venta de entradas
